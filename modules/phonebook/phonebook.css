@@ -1,0 +1,69 @@
+﻿.personName, .personDob, input[type=text], .subject {
+    /*color: #222;*/
+}
+
+.listPerson li {
+    border: 1px solid rgba(0,0,0,0);
+
+}
+.c-search {
+    /*margin-top: 20px;*/
+    float: right;
+}
+.personTextSearch {
+    height: 30px;
+    width: 300px;
+}
+.subject {
+    background:#fff !important;
+    margin-bottom:0px;
+}
+.btnSendMail {
+    margin-bottom:0px;
+}
+.btn-mail {
+
+}
+.list-group-item {
+    background:none;
+    color:#fff;
+}
+.setImgStyle {
+    border:2px solid;
+}
+
+@media(max-width: 767px) {
+    .listPerson {
+        columns: unset;
+        -moz-columns: unset;
+    }
+    .c-search {
+        float: none;
+        width: 100%;
+    }
+
+    .c-search input[type="text"] {
+        width: 70%;
+        margin: 10px 5px 0px 0px;
+    }
+}
+
+@media(max-width: 979px) {
+    .listPerson {
+        columns: unset;
+        -moz-columns: unset;
+    }
+    .listPerson li {
+        word-wrap: break-word;
+    }
+}
+
+.listPerson li div {
+    margin: 0;
+    padding: 0 3px;
+}
+
+@media (max-width: 479px) {
+   
+    
+}

@@ -1,0 +1,760 @@
+
+
+</cp/email/addresses/action:add/domain:613839>
+E-Mail Address: 	Name of user: 	Size 	Actions	
+account1@globaltopgroup.com 	Yupaporn Chinnawong (Yu) *30* 	0.62 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:YWNjb3VudDFAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755794/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755794/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:YWNjb3VudDFAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755794/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:YWNjb3VudDFAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+account2@globaltopgroup.com 	Praneet Thuiprakhon (Aui) *108* 	0.51
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:YWNjb3VudDJAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755795/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755795/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:YWNjb3VudDJAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755795/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:YWNjb3VudDJAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+account3@globaltopgroup.com 	Wanlaya Inluemsai (Nou) *109* 	0.01 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:YWNjb3VudDNAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755796/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755796/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:YWNjb3VudDNAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755796/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:YWNjb3VudDNAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+account4@globaltopgroup.com 	Orawan Ruengsook (Natty) *110* 	1.33
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:YWNjb3VudDRAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755797/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755797/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:YWNjb3VudDRAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755797/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:YWNjb3VudDRAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+account5@globaltopgroup.com 	Nannalin Singku (Bua) *111* 	0.73 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:YWNjb3VudDVAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755798/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755798/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:YWNjb3VudDVAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755798/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:YWNjb3VudDVAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+account6@globaltopgroup.com 	Maytinee Moolmuang (May) *0* 	0.74 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:YWNjb3VudDZAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:763273/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:763273/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:YWNjb3VudDZAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:763273/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:YWNjb3VudDZAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+admin1@globaltopgroup.com 	Sirintip Junkhiaw (Nok) *116* 	0 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:YWRtaW4xQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755804/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755804/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:YWRtaW4xQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755804/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:YWRtaW4xQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+
+assistant2@globaltopgroup.com 	Athikun Panyaphitak (Top)*148* 	0.21
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:YXNzaXN0YW50MkBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:767049/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:767049/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:YXNzaXN0YW50MkBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:767049/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:YXNzaXN0YW50MkBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+assistant@globaltopgroup.com 	Thanattha Sabal (Wee) *0* 	0.02 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:YXNzaXN0YW50QGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:761041/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:761041/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:YXNzaXN0YW50QGdsb2JhbHRvcGdyb3VwLmNvbQ==/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:761041/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:YXNzaXN0YW50QGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+
+asstmanager@globaltopgroup.com 	Thanattha Sabal (Wee) *0* 	0.05 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:YXNzdG1hbmFnZXJAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755810/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755810/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:YXNzdG1hbmFnZXJAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755810/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:YXNzdG1hbmFnZXJAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+bkkoffice@globaltopgroup.com 	GTG 	0 GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:Ymtrb2ZmaWNlQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:768171/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:768171/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:Ymtrb2ZmaWNlQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:768171/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:Ymtrb2ZmaWNlQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+
+customerservice1@globaltopgroup.com 	Yana Brem (Yana) *106* 	0.29
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:Y3VzdG9tZXJzZXJ2aWNlMUBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:759872/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:759872/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:Y3VzdG9tZXJzZXJ2aWNlMUBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:759872/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:Y3VzdG9tZXJzZXJ2aWNlMUBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+customerservice@globaltopgroup.com 	Tamonvan Saklor (Kate) *43* 	0.01
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:Y3VzdG9tZXJzZXJ2aWNlQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755812/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755812/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:Y3VzdG9tZXJzZXJ2aWNlQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755812/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:Y3VzdG9tZXJzZXJ2aWNlQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+
+drt@globaltopgroup.com 	Raj Thapa (Raj) *120* 	0 GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:ZHJ0QGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:764150/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:764150/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:ZHJ0QGdsb2JhbHRvcGdyb3VwLmNvbQ==/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:764150/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:ZHJ0QGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+
+drtsmtp@globaltopgroup.com 	drtsmtp 	0 GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:ZHJ0c210cEBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:754664/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:754664/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:ZHJ0c210cEBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:754664/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:ZHJ0c210cEBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+engineer@globaltopgroup.com 	Pronwiwat Nitrotkul (Lex) *10* 	0.62
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:ZW5naW5lZXJAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755805/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755805/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:ZW5naW5lZXJAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755805/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:ZW5naW5lZXJAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+finance@globaltopgroup.com 	Maytinee Moolmuang (May) *0* 	0 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:ZmluYW5jZUBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:767867/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:767867/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:ZmluYW5jZUBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:767867/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:ZmluYW5jZUBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+graphic@globaltopgroup.com 	Veerapan Donggulsa (Jeab) *112* 	0.21
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:Z3JhcGhpY0BnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755807/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755807/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:Z3JhcGhpY0BnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755807/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:Z3JhcGhpY0BnbG9iYWx0b3Bncm91cC5jb20=/>
+
+gtg_invoice@globaltopgroup.com 	Invoice Global Top Group (Invoice) *0*
+0 GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:Z3RnX2ludm9pY2VAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:760828/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:760828/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:Z3RnX2ludm9pY2VAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:760828/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:Z3RnX2ludm9pY2VAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+gtg_receipts@globaltopgroup.com 	gtg_receipts for admin use (Receipts)
+*0* 	0 GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:Z3RnX3JlY2VpcHRzQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:757955/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:757955/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:Z3RnX3JlY2VpcHRzQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:757955/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:Z3RnX3JlY2VpcHRzQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+
+hr@globaltopgroup.com 	Thanattha Sabal (Wee) *0* 	0.01 GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:aHJAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755778/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755778/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:aHJAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755778/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:aHJAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+info@globaltopgroup.com 	Alal Nina Netter (Nina) *0* 	0.94 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:aW5mb0BnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:757759/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:757759/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:aW5mb0BnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:757759/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:aW5mb0BnbG9iYWx0b3Bncm91cC5jb20=/>
+
+international-manager@globaltopgroup.com 	Dusadeeporn Mudhasakul (Honda)
+*8* 	1.55 GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:aW50ZXJuYXRpb25hbC1tYW5hZ2VyQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:762828/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:762828/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:aW50ZXJuYXRpb25hbC1tYW5hZ2VyQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:762828/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:aW50ZXJuYXRpb25hbC1tYW5hZ2VyQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+
+it@globaltopgroup.com 	Rachchave Boonthanom (Nine) *36* 	0.01 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:aXRAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755806/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755806/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:aXRAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755806/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:aXRAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+jason@globaltopgroup.com 	Jason Young (Jason) *151* 	0.03 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:amFzb25AZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:769508/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:769508/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:amFzb25AZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:769508/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:amFzb25AZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+lee@globaltopgroup.com 	Mr. Boeing Lee (Lee) *138* 	0.01 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:bGVlQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:764332/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:764332/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:bGVlQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:764332/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:bGVlQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+
+manager@globaltopgroup.com 	Alal Nina Netter (Nina) *6* 	2.64 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:bWFuYWdlckBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755776/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755776/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:bWFuYWdlckBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755776/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:bWFuYWdlckBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+marketing10@globaltopgroup.com 	Sundy Von Rodrigo (Sundy) *154* 	0
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:bWFya2V0aW5nMTBAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:769070/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:769070/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:bWFya2V0aW5nMTBAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:769070/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:bWFya2V0aW5nMTBAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+marketing7@globaltopgroup.com 	Cromwell Casuga (Crom) *153* 	0.01
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:bWFya2V0aW5nN0BnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755791/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755791/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:bWFya2V0aW5nN0BnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755791/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:bWFya2V0aW5nN0BnbG9iYWx0b3Bncm91cC5jb20=/>
+
+marketing8@globaltopgroup.com 	Touchakorn Sainampeung (Bia) *150* 	0.12
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:bWFya2V0aW5nOEBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755792/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755792/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:bWFya2V0aW5nOEBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755792/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:bWFya2V0aW5nOEBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+marketing9@globaltopgroup.com 	Alal Nina Netter (Nina) *0* 	0.11 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:bWFya2V0aW5nOUBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755793/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755793/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:bWFya2V0aW5nOUBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755793/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:bWFya2V0aW5nOUBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+marketing@globaltopgroup.com 	John Gage (John) *14* 	1.16 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:bWFya2V0aW5nQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755808/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755808/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:bWFya2V0aW5nQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755808/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:bWFya2V0aW5nQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+
+md@globaltopgroup.com 	Yigal Yonah Heli (Yigal) *1* 	2.59 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:bWRAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755774/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755774/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:bWRAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755774/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:bWRAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+pov_juristic@globaltopgroup.com 	Tanakron Suksuwan (Na) *114* 	0 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:cG92X2p1cmlzdGljQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:762323/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:762323/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:cG92X2p1cmlzdGljQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:762323/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:cG92X2p1cmlzdGljQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+
+purchasing@globaltopgroup.com 	Thanattha Sabal (Wee) *7* 	1.45 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:cHVyY2hhc2luZ0BnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755777/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755777/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:cHVyY2hhc2luZ0BnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755777/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:cHVyY2hhc2luZ0BnbG9iYWx0b3Bncm91cC5jb20=/>
+
+rental@globaltopgroup.com 	Phatsawee Chainan (Aoy) *33* 	0.51 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:cmVudGFsQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755811/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755811/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:cmVudGFsQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755811/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:cmVudGFsQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+
+sales-director@globaltopgroup.com 	Philip Thompson (Philip) *12* 	0.56
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMtZGlyZWN0b3JAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755789/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755789/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMtZGlyZWN0b3JAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755789/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMtZGlyZWN0b3JAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+sales-manager2@globaltopgroup.com 	Panyawat Dangcharoen (Lucky) *141*
+0.05 GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMtbWFuYWdlcjJAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:766834/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:766834/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMtbWFuYWdlcjJAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:766834/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMtbWFuYWdlcjJAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+sales-manager@globaltopgroup.com 	Sukanda Nissawong (Waan) *96* 	2.92
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMtbWFuYWdlckBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755790/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755790/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMtbWFuYWdlckBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755790/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMtbWFuYWdlckBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales22@globaltopgroup.com 	Saruta Praporndee (Lydia) *85* 	0.21 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMyMkBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:757859/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:757859/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMyMkBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:757859/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMyMkBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales23@globaltopgroup.com 	Feliciano Leyson (Bhong) *16* 	0.38 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMyM0BnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755779/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755779/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMyM0BnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755779/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMyM0BnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales25@globaltopgroup.com 	Jason Young (Jason) *0* 	0.18 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMyNUBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755781/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755781/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMyNUBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755781/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMyNUBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales27@globaltopgroup.com 	Jason Young (Jason) *0* 	0.06 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMyN0BnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755783/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755783/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMyN0BnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755783/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMyN0BnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales28@globaltopgroup.com 	Bjorn Kielman (Bjorn) *73* 	0.21 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMyOEBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755784/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755784/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMyOEBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755784/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMyOEBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales29@globaltopgroup.com 	Sunisa Dangtanu (Maple) *80* 	0.16 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMyOUBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755785/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755785/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMyOUBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755785/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMyOUBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales31@globaltopgroup.com 	Matania Netter (Matania) *5* 	0.04 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMzMUBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755787/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755787/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMzMUBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755787/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMzMUBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales32@globaltopgroup.com 	Arsen Kazadjanov (Arsen) *86* 	0.35 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMzMkBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755788/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755788/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMzMkBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755788/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMzMkBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales33@globaltopgroup.com 	Farrukh Ibrakhimov (Farrukh) *89* 	0.11
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMzM0BnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:759864/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:759864/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMzM0BnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:759864/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMzM0BnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales35@globaltopgroup.com 	Netchanok Manpia (Nok-Sales) *91* 	0.08
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMzNUBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:762402/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:762402/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMzNUBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:762402/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMzNUBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales36@globaltopgroup.com 	Jason Young (Jason) *0* 	0.02 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMzNkBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:762723/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:762723/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMzNkBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:762723/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMzNkBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales37@globaltopgroup.com 	Paweena Panthong (Autum) *99* 	0.09 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMzN0BnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:763611/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:763611/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMzN0BnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:763611/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMzN0BnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales38@globaltopgroup.com 	Charuwan Sittiphon (Eve) *118* 	0.11 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXMzOEBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:764213/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:764213/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXMzOEBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:764213/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXMzOEBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales41@globaltopgroup.com 	Jason Young (Jason) *0* 	0.01 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXM0MUBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:757858/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:757858/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXM0MUBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:757858/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXM0MUBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales42@globaltopgroup.com 	Phakawanan Chansi (Yo-Sales) *143* 	0
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXM0MkBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:766830/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:766830/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXM0MkBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:766830/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXM0MkBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales43@globaltopgroup.com 	Egawit Samartkul (Non) *144* 	0 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXM0M0BnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:766831/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:766831/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXM0M0BnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:766831/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXM0M0BnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales44@globaltopgroup.com 	Usawin Boontisang (Lex)*145* 	0 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXM0NEBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:766832/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:766832/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXM0NEBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:766832/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXM0NEBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales45@globaltopgroup.com 	Sililak Tatiyarattanaporn (Al) *146* 	0
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXM0NUBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:766833/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:766833/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXM0NUBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:766833/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXM0NUBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+sales@globaltopgroup.com 	Francis Wittenberger (Francis) *13* 	0.02
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXNAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755231/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755231/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXNAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755231/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXNAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+salesadmin1@globaltopgroup.com 	Maytinee Moolmuang (May) *140* 	1.39
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXNhZG1pbjFAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755800/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755800/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXNhZG1pbjFAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755800/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXNhZG1pbjFAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+salesadmin2@globaltopgroup.com 	Nattawut Apornsri (Tobs) *39* 	0.39
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXNhZG1pbjJAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755801/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755801/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXNhZG1pbjJAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755801/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXNhZG1pbjJAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+salesadmin3@globaltopgroup.com 	Chuanphit Boonkoed (Yo) *115* 	0.43
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXNhZG1pbjNAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755802/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755802/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXNhZG1pbjNAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755802/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXNhZG1pbjNAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+salesadmin4@globaltopgroup.com 	Alexandr Furne (Alex) *147* 	0.76
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXNhZG1pbjRAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755803/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755803/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXNhZG1pbjRAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755803/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXNhZG1pbjRAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+salesadmin5@globaltopgroup.com 	Sangita Sapkota (Gita) *117* 	0 GByte
+Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXNhZG1pbjVAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:762105/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:762105/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXNhZG1pbjVAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:762105/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXNhZG1pbjVAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+salescoordinator@globaltopgroup.com 	Maneth Sak (Maneth) *97* 	0.11
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXNjb29yZGluYXRvckBnbG9iYWx0b3Bncm91cC5jb20=/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755809/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755809/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXNjb29yZGluYXRvckBnbG9iYWx0b3Bncm91cC5jb20=/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755809/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXNjb29yZGluYXRvckBnbG9iYWx0b3Bncm91cC5jb20=/>
+
+salessupport@globaltopgroup.com 	Lennie Murillo-Zerrudo (Lennie) *11*
+1.04 GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FsZXNzdXBwb3J0QGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:762494/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:762494/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FsZXNzdXBwb3J0QGdsb2JhbHRvcGdyb3VwLmNvbQ==/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:762494/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FsZXNzdXBwb3J0QGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+
+sam@globaltopgroup.com 	Sam Heli (Sam) *2* 	0.01 GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2FtQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:755775/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:755775/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2FtQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:755775/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2FtQGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+
+seller_sending_drt@globaltopgroup.com 	DRT 	0 GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2VsbGVyX3NlbmRpbmdfZHJ0QGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:768349/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:768349/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2VsbGVyX3NlbmRpbmdfZHJ0QGdsb2JhbHRvcGdyb3VwLmNvbQ==/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:768349/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2VsbGVyX3NlbmRpbmdfZHJ0QGdsb2JhbHRvcGdyb3VwLmNvbQ==/>
+
+showroom_paradise@globaltopgroup.com 	Tanakorn Suksuwan (Na) *0* 	0.02
+GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:c2hvd3Jvb21fcGFyYWRpc2VAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:763390/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:763390/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:c2hvd3Jvb21fcGFyYWRpc2VAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:763390/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:c2hvd3Jvb21fcGFyYWRpc2VAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+tv@globaltopgroup.com 	Felix Labayen (Felix) *137* 	0 GByte 	Autoreply
+</cp/email/addresses/action:autoresponder/domain:613839/email:dHZAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+, Info </cp/email/addresses/action:info/domain:613839/emailid:764155/>,
+Filter </cp/email/addresses/imap_filter/domain:613839/emailid:764155/>,
+SMS
+</cp/email/addresses/action:sms/domain:613839/email:dHZAZ2xvYmFsdG9wZ3JvdXAuY29t/>,
+Edit </cp/email/addresses/action:edit/domain:613839/emailid:764155/>,
+Delete
+</cp/email/addresses/action:delete/domain:613839/email:dHZAZ2xvYmFsdG9wZ3JvdXAuY29t/>
+
+You have 69 mail account(s).
+
+
+      

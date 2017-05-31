@@ -1,0 +1,198 @@
+﻿<h1 class="page-title">Pricelist</h1>
+<div class="pricelist">
+    <div class="row">
+        <div class="widget">
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                
+
+                <div class="accordion" id="buildingsFilter">
+                    <div class="accordion-group">
+                        <div class="accordion-heading">
+                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+                                Buildings
+                            </a>
+                        </div>
+                        <div id="collapseOne" class="accordion-body collapse in">
+                            <div class="accordion-inner" ng-init="active = false">
+                                <button ng-repeat="building in buildings" 
+                                        ng-class="{'btn-primary': active}"
+                                        ng-click="
+                                            active = !active;    
+                                            selectBuilding(building, active);
+                                            
+                                        "
+                                        class="btn btn-block btn-xs btn-building"
+                                >
+                                    {{building.Name}}
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <form class="form-inline price-filter">
+                    <fieldset>
+                        <legend>Price Filter <button class="btn btn-default pull-right btn-reset-price">Price Reset</button></legend>    
+                        <div class="row">
+                            <div class="form-group">
+                                <label>Quota:&nbsp;</label>
+                                <div class="radio">
+                                    <label>
+                                        <input ng-model="UnitPriceQuota" type="radio" value="foreign"> Foreign
+                                    </label>
+                                    <label>
+                                        <input ng-model="UnitPriceQuota" type="radio" name="thai"> Thai
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                       
+                        <div class="row">
+                            <div class="form-group">
+                                <label>Type:&nbsp;</label>
+                                <div class="radio">
+                                    <label>
+                                        <input ng-model="unitPriceTypeFilter" ng-change="priceTypeChanged()" type="radio" value="sqm"> Sqm
+                                    </label>
+                                    <label>
+                                        <input ng-model="unitPriceTypeFilter" ng-change="priceTypeChanged()" type="radio" value="total" checked> Total
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group">
+                                <input type="number" ng-model="minPrice" ng-change="priceChanged()" class="form-control">
+                            </div>
+                            <label>To</label>
+                            <div class="form-group">
+                                <input type="number" ng-model="maxPrice" ng-change="priceChanged()" class="form-control">
+                            </div>
+                            <label>Mil</label>
+                        </div>
+                    </fieldset>
+                </form>
+
+                <form class="form-inline grouping">
+                    <fieldset>
+                        <legend>Grouping</legend>
+                        <div class="form-group">
+                            <label>Presets</label>
+                            <select ng-model="grouping" ng-change="groupBy()">
+                                <option value="">--</option>
+                                <option value="building,type">Build,Type</option>
+                                <option value="building,floor">Build,Floor</option>
+                                <option value="building,floor,type">Build,Floor,Type</option>
+                                <option value="complex,building,floor,type">Complex,Build,Floor,Type</option>
+                            </select>   
+                        </div>
+                        <div class="form-group group-by-result">
+                            <label>Presets</label>
+                            <select class="select">
+                                <option value="">--</option>
+                                <option value="unit_id">Unit</option>
+                                <option value="complex_id">Complex</option>
+                                <option value="building_id">Build.</option>
+                                <option value="floor_no">Floor</option>
+                                <option value="unit_number">Unit Number</option>
+                                <option value="filter_unit_type">Type</option>
+                                <option value="unit_size">Sqm</option>
+                                <option value="unit_status_id">Stat</option>
+                                <option value="price_per_sqm_for">SqmFR</option>
+                                <option value="total_price_per_sqm_for">Price FR</option>
+                                <option value="price_per_sqm_thai">SqmTH</option>
+                                <option value="total_price_per_sqm_thai">Price TH</option>
+                                <option value="num_bathrooms">Bath</option>
+                                <option value="unit_view">View</option>
+                                <option value="is_corner_unit">Corner</option>
+                                <option value="scancontract">Scan contract</option>
+                            </select>
+                            <select class="select">
+                                <option value="">--</option>
+                                <option value="unit_id">Unit</option>
+                                <option value="complex_id">Complex</option>
+                                <option value="building_id">Build.</option>
+                                <option value="floor_no">Floor</option>
+                                <option value="unit_number">Unit Number</option>
+                                <option value="filter_unit_type">Type</option>
+                                <option value="unit_size">Sqm</option>
+                                <option value="unit_status_id">Stat</option>
+                                <option value="price_per_sqm_for">SqmFR</option>
+                                <option value="total_price_per_sqm_for">Price FR</option>
+                                <option value="price_per_sqm_thai">SqmTH</option>
+                                <option value="total_price_per_sqm_thai">Price TH</option>
+                                <option value="num_bathrooms">Bath</option>
+                                <option value="unit_view">View</option>
+                                <option value="is_corner_unit">Corner</option>
+                                <option value="scancontract">Scan contract</option>
+                            </select>
+                            <select class="select">
+                                <option value="">--</option>
+                                <option value="unit_id">Unit</option>
+                                <option value="complex_id">Complex</option>
+                                <option value="building_id">Build.</option>
+                                <option value="floor_no">Floor</option>
+                                <option value="unit_number">Unit Number</option>
+                                <option value="filter_unit_type">Type</option>
+                                <option value="unit_size">Sqm</option>
+                                <option value="unit_status_id">Stat</option>
+                                <option value="price_per_sqm_for">SqmFR</option>
+                                <option value="total_price_per_sqm_for">Price FR</option>
+                                <option value="price_per_sqm_thai">SqmTH</option>
+                                <option value="total_price_per_sqm_thai">Price TH</option>
+                                <option value="num_bathrooms">Bath</option>
+                                <option value="unit_view">View</option>
+                                <option value="is_corner_unit">Corner</option>
+                                <option value="scancontract">Scan contract</option>
+                            </select>
+                            <select class="select">
+                                <option value="">--</option>
+                                <option value="unit_id">Unit</option>
+                                <option value="complex_id">Complex</option>
+                                <option value="building_id">Build.</option>
+                                <option value="floor_no">Floor</option>
+                                <option value="unit_number">Unit Number</option>
+                                <option value="filter_unit_type">Type</option>
+                                <option value="unit_size">Sqm</option>
+                                <option value="unit_status_id">Stat</option>
+                                <option value="price_per_sqm_for">SqmFR</option>
+                                <option value="total_price_per_sqm_for">Price FR</option>
+                                <option value="price_per_sqm_thai">SqmTH</option>
+                                <option value="total_price_per_sqm_thai">Price TH</option>
+                                <option value="num_bathrooms">Bath</option>
+                                <option value="unit_view">View</option>
+                                <option value="is_corner_unit">Corner</option>
+                                <option value="scancontract">Scan contract</option>
+                            </select>
+                        </div>
+                    </fieldset>
+                </form>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-9 col-lg-9">
+                <div class="row">
+                    <div class="col-md-12 filter-tag">
+                        <div class="form-group"  ng-init="active = false">
+                            <label>Type</label>
+                            <div class="btn-group">
+                                <button ng-repeat="type in unitTypes" ng-click="active = !active; selectUnitType(type.ID, active);" ng-class="{'btn-success': active}" class="btn btn-sm btn-default btn-primary btn-unit-type">{{type.Name}}</button>
+                            </div>
+                        </div>
+                        {{units}}
+                        <div class="form-group">
+                            <label>Availability</label>
+                            <div class="btn-group">
+                                <button ng-repeat="stat in unitStatuses" ng-click="active = !active; selectUnitStatus(stat.ID, active); " ng-class="{'btn-success':active}" class="btn btn-default btn-sm btn-primary">{{stat.Name}}</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="price-list-table-container">
+                        <div id="grid1" ui-grid="gridOptions" ui-grid-grouping class="grid price-list-table"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

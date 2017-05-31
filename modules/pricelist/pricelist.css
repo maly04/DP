@@ -1,0 +1,52 @@
+﻿.pricelist .price-list-table {
+    font-size: 12px;
+    color: #000;
+}
+
+
+@media(max-width: 767px){
+    .pricelist .ui-grid-cell,
+    .pricelist .ui-grid-filter-container {
+        min-width: 100px;
+        max-width: 100px;
+        display: inline-block;
+    }
+
+    .ui-grid-header-viewport {
+        width: 100% !important;
+    }
+
+    .ui-grid-canvas {
+        width: 100% !important;
+        overflow: scroll !important;
+        font-size: 10px;
+    }
+
+    /*.ui-grid-header-viewport {
+        width: 100% !important;
+        display: block;
+        overflow: visible;
+    }
+
+    .ui-grid-header-cell-wrapper
+    
+    .ui-grid-render-container-body .ui-grid-header-canvas {
+        width: 100% !important;
+        display: inline-block;
+    }
+
+    .ui-grid-row:nth-child(odd) .ui-grid-cell {
+        background-color: #fdfdfd;
+        display: block;
+        padding: 0px 0;
+        max-width: 80px;
+        width: 100px;
+    }
+
+    .ui-grid-row {
+        height: 30px;
+        width: auto;
+        overflow: auto;
+    }*/
+
+}
